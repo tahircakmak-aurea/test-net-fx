@@ -1,0 +1,2 @@
+C:\src\TestProjects\TestNetFX\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\src\TestProjects\TestNetFX\test-net-fx\ConsoleApp\bin\Debug\ConsoleApp.exe.config
